@@ -5,7 +5,7 @@ import { ArrowRight, Citrus, Apple, Sprout, TreeDeciduous, ArrowLeft } from "luc
 import { useParams, Link } from 'react-router-dom';
 
 // Image URLs
-const NURSERY_HERO = "/nurserystock.webp";
+const NURSERY_HERO = "/nurserybaby.jpg";
 const CITRUS_IMAGE = "/CitrusOrchardPicked.jpg";
 const FRUIT_IMAGE = "/appleblossom1.jpg";
 const OTHER_IMAGE = "/otherfruit1.jpg";
