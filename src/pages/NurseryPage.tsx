@@ -11,7 +11,7 @@ const FRUIT_IMAGE = "/appleblossom1.jpg";
 const OTHER_IMAGE = "/otherfruit1.jpg";
 const SCIONS_IMAGE = "/scion1.jpg";
 // Path to your new PNG in the public folder
-const QUARANTINE_IMAGE = "/public/citrus quarantine.png";
+const QUARANTINE_IMAGE = "/citrus quarantine.png";
 
 export function NurseryPage() {
   const { category } = useParams();
