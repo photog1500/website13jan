@@ -89,7 +89,7 @@ export function NurseryPage() {
                         <h3 className="font-bold mb-2">Inventory Updating</h3>
                         <p className="text-muted-foreground mb-4">
                             Our {activeCategory.title.toLowerCase()} inventory is currently being updated for the season. 
-                            Please check back soon for a full list of available varieties.
+                            Please check back soon for a full list of available varieties.  We currently are growing out all citrus varieties and will start grafting fruit trees in February.
                         </p>
                         
                         {/* Option 1: Quarantine Image added specifically for Citrus */}
