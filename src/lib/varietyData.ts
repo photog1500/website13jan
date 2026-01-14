@@ -367,7 +367,7 @@ export const fruitVarieties = {
     imageUrl: "https://images.unsplash.com/photo-1612528443702-f6741f3a6f85?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NzI1Njd8MHwxfHNlYXJjaHwxfHxuZWN0YXJpbmVzfGVufDB8MHx8fDE3NjY0NTg0MjJ8MA&ixlib=rb-4.1.0&q=85",
     varieties: [
       {
-        name: "Flame Prince",
+        name: "Our Best Heirlooms",
         description: "Sweet, juicy nectarine with beautiful red color.",
         season: "Mid-season",
         characteristics: ["Red", "Sweet", "Juicy"],
@@ -383,8 +383,8 @@ export const fruitVarieties = {
     imageUrl: "https://images.unsplash.com/photo-1599599810964-b3baf1f30c71?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NzI1Njd8MHwxfHNlYXJjaHwyfHxwbHVtc3xlbnwwfDB8fHx8fDE3NjY0NTg0MjJ8MA&ixlib=rb-4.1.0&q=85",
     varieties: [
       {
-        name: "Santa Rosa",
-        description: "Popular plum with sweet-tart flavor. Excellent for fresh eating.",
+        name: "The Best Heirlooms we Know Of",
+        description: "All our plums taste great and are Excellent for fresh eating.",
         season: "Mid-season",
         characteristics: ["Red", "Sweet-tart", "Juicy"],
         uses: ["Fresh eating", "Preserves"],
