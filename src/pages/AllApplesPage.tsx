@@ -71,7 +71,7 @@ const appleVarieties: AppleVariety[] = [
     latinName: "Malus domestica 'Ein Shemer'",
     description: "Another Isreali apple, this one developed by Mr. Abba Shemer, import the year I was born 1967.  Named afer a kibbutz, or gathering. Medium to large apple, A tradiional apple shape, with some brown russet.  Starts green and sun facing skin develops red orange patches.  Flesh is white and firm and juicy.  Early bloomer and helps pollinate both Anna and Dorsett, plus some other apples if they bloom early.  Good for eating off the tree and baking. But doesnt keep well after it is picked..",
     image1: "/EinShemer1.webp",
-    image2: "einshemer2.png",
+    image2: "/einshemer2.png",
     harvestTime: "Late October",
     characteristics: ["Historic American variety", "Improves with storage", "All-purpose", "Long season required"]
   },
