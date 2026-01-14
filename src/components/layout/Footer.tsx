@@ -12,7 +12,7 @@ export function Footer() {
           <div className="md:col-span-1 space-y-4">
             <h3 className="font-serif text-2xl font-bold">Latch Orchards</h3>
             <p className="text-primary-foreground/80 text-sm leading-relaxed">
-              AL #833    Cultivating heirloom varieties and preserving the tradition of the family orchard since 2024.   
+              AL-LO-833    Cultivating heirloom varieties and preserving the tradition of the family orchard since 2024.   
             </p>
             <div className="flex gap-4 pt-2">
               <a href="https://www.facebook.com/profile.php?id=61578202290021" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors p-2 bg-white/5 rounded-full hover:bg-white/10">
@@ -46,7 +46,7 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Phone size={18} className="shrink-0" />
-                <a href="tel:251-301-8057" className="hover:text-white">251-301-8057</a>
+                <a href="tel:251-301-8057" className="hover:text-white">251-301-8067</a>
               </li>
             </ul>
           </div>
