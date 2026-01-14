@@ -1,0 +1,8 @@
+
+{
+  "name": "latch-orchards",
+  "compatibility_date": "2026-01-13", // YYYY-MM-DD (use today's date)
+  "assets": {
+    "directory": "./dist"
+  }
+}
