@@ -20,8 +20,8 @@ const appleVarieties: AppleVariety[] = [
     name: "Alabama Shell",
     latinName: "Malus domestica 'Shell of Alabama'",
     description: "A complex and delicious medium sized apple.  Originally developed by Mr. Greenberry Shell, in Escambia County, near present day Appleton in the 1850s.  Because it was adapted for this location, it is one of the hardiest of all the heirlooms.  It is both sweet, tart, and astrigent. It starts to ripen in June into late July. Mostly green with more red as it ripens.  Although it is self fertile, pollination with another apple always gets a better crop.  Also, it will fertilize the Anna apple. ",
-    image1: "/public/shell1.webp",
-    image2: "/public/shell1.jpg",
+    image1: "/shell1.webp",
+    image2: "/shell1.jpg",
     harvestTime: "July and August",
     characteristics: ["Excellent keeper", "Rich complex flavor", "All-purpose", "Historic variety"]
   },
@@ -30,7 +30,7 @@ const appleVarieties: AppleVariety[] = [
     name: "Rev. Morgan",
     latinName: "Malus domestica 'Reverend Morgan'",
     description: "Heirloom originating around Houston, Texas in the 60's.. It was a seedling of Granny Smith. This remarkable heritage apple features a distinctive red-pink skin that becomes more muted as it matures, with the sun exposed faces getting deep red. Medium to large fruit, yellowish flesh.  Crisp and juicy, pleasantly tart. Good for fresh eating and cooking, the trees are vigorous, hardy, and disease-resistant, making them ideal for organic growing. This variety is excellent for fresh eating after storage, and baking. HARVEST: Late CHILL: Low to none BLOOM:Late  POLLINATION: self fertile.  ",
-    image1: "/public/remorgan.jpg",
+    image1: "/remorgan.jpg",
     image2: "/revmorgan.webp",
     harvestTime: "Mid to Late October",
     characteristics: ["Oldest American variety", "Exceptional keeper", "Great for cider", "Disease-resistant"]
@@ -86,14 +86,14 @@ const appleVarieties: AppleVariety[] = [
     characteristics: ["All-purpose excellence", "Long-lived trees", "Excellent keeper", "Slow to bear"]
   },
   {
-    id: "TBA",
-    name: "TBA",
-    latinName: "Malus domestica 'TBA'",
-    description: "A classic American apple.",
-    image1: "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NzI1Njd8MHwxfHNlYXJjaHwxM3xhcHBsZSUyMGRlZXAlMjByZWR8ZW58MHwwfHx8MTczNTEzOTIwMHww&ixlib=rb-4.1.0&q=85",
-    image2: "https://images.unsplash.com/photo-1576179635662-9d1983e97e1e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NzI1Njd8MHwxfHNlYXJjaHwxNHxhcHBsZSUyMGRlZXAlMjByZWR8ZW58MHwwfHx8MTczNTEzOTIwMHww&ixlib=rb-4.1.0&q=85",
-    harvestTime: "Late October to Early November",
-    characteristics: ["Wine-like flavor", "Excellent for cider", "Long storage", "Very productive"]
+    id: "Redlove Calypso/Mountain Rose/Firecracker Red",
+    name: "Our Red flesh Varietals",
+    latinName: "Malus domestica 'RedloveCalypso', 'MountainRose', 'Firecracker'",
+    description: "A Twist on the classics. Striking Red Fleshed apples, disctinctly good. All are very aromatic and sweet, with firecracker having a bit of zing. All 3 full of Anthocyanins, exceptionally healthy.",
+    image1: "/AppleFirecrackerCrab.jpg",
+    image2: "/AppleMountainRose.jpg",
+    harvestTime: "Late October to Late November",
+    characteristics: ["Wow Factor", "Excellent for cider", "Long storage", "Very productive"]
   }
 ];
 
