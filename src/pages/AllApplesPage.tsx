@@ -30,7 +30,7 @@ const appleVarieties: AppleVariety[] = [
     name: "Rev. Morgan",
     latinName: "Malus domestica 'Reverend Morgan'",
     description: "Heirloom originating around Houston, Texas in the 60's.. It was a seedling of Granny Smith. This remarkable heritage apple features a distinctive red-pink skin that becomes more muted as it matures, with the sun exposed faces getting deep red. Medium to large fruit, yellowish flesh.  Crisp and juicy, pleasantly tart. Good for fresh eating and cooking, the trees are vigorous, hardy, and disease-resistant, making them ideal for organic growing. This variety is excellent for fresh eating after storage, and baking. HARVEST: Late CHILL: Low to none BLOOM:Late  POLLINATION: self fertile.  ",
-    image1: "/public/ReMorgan.jpg",
+    image1: "/ReMorgan.jpg",
     image2: "/revmorgan.webp",
     harvestTime: "Mid to Late October",
     characteristics: ["Oldest American variety", "Exceptional keeper", "Great for cider", "Disease-resistant"]
