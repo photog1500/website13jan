@@ -281,8 +281,8 @@ export const fruitVarieties = {
     imageUrl: "https://images.unsplash.com/photo-1599599810694-b3fa5c9b7a0b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NzI1Njd8MHwxfHNlYXJjaHw1fHxwZWFyc3xlbnwwfDB8fHx8fDE3NjY0NTg0MjJ8MA&ixlib=rb-4.1.0&q=85",
     varieties: [
       {
-        name: "Bartlett",
-        description: "Classic pear with sweet, juicy flavor. Colors yellow when ripe.",
+        name: "Our Heirloom Pears",
+        description: "Classic pears with sweet, juicy flavor. Both European and Asian Verieties.",
         season: "Mid-season",
         characteristics: ["Yellow", "Sweet", "Juicy", "Classic"],
         uses: ["Fresh eating", "Canning"],
@@ -291,10 +291,10 @@ export const fruitVarieties = {
       },
 
       {
-        name: "Bosc",
-        description: "Russet-colored pear with rich, spicy flavor. Excellent storage.",
+        name: "Our Newer Pears",
+        description: "On their way to heirloom... hood.",
         season: "Mid-late",
-        characteristics: ["Russet", "Spicy", "Dense", "Good storage"],
+        characteristics: ["Russet", "Crisp", "Dense", "Good storage"],
         uses: ["Fresh eating", "Cooking"],
         storage: "Good, 2-3 weeks",
         ripenDate: "September to October"
