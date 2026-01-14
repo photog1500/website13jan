@@ -93,7 +93,7 @@ export function HomePage() {
           imageAlt="Spring blossoms at Latch Orchards"
         >
           <p className="mb-4">
-            Latch Orchards began its journey over 50 years ago, with a farm kid who had a passion for preserving the flavors of the past. Founded by the Lloyd Heard, our orchard is special as it is a Micro Orchard for fruit and citrus enthusiasts. The trees are planted closer to maximize both space and allow more trees. We arent big on size, but we are big on heritage, flavor, and family.
+            Latch Orchards began its journey over 50 years ago, with a farm kid who had a passion for preserving the flavors of the past. Founded by Lloyd Heard, our orchard is special as it is a Micro Orchard for fruit and citrus enthusiasts. The trees are planted closer to maximize both space and allow more trees. We arent big on size, but we are big on heritage, flavor, and family.
           </p>
           <p className="mb-4">
             Nestled in Northern Baldwin County, on land ideal for fruit and citrus production, our trees benefit from the warm winter sun and gentle breezes that moderate the climate year-round. This unique microclimate allows us to grow varieties that are often difficult to find elsewhere, and some that are ONLY grown here.
