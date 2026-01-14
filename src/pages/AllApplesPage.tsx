@@ -73,7 +73,7 @@ const appleVarieties: AppleVariety[] = [
     image1: "/EinShemer1.webp",
     image2: "/einshemer2.png",
     harvestTime: "Late October",
-    characteristics: ["Historic American variety", "Improves with storage", "All-purpose", "Long season required"]
+    characteristics: ["Historic 'American' variety", "Rugged Apple", "All-purpose", "A Solid Apple"]
   },
   {
     id: "Dorsett Golden",
